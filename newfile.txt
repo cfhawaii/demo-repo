@@ -7,3 +7,4 @@ newline
 newfeature1 edit
 
 new pull
+new change
